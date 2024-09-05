@@ -3,6 +3,10 @@
 ## Overview
 This component demonstrates how to implement a smooth transition effect using the `react-transition-group` package in a React application. It allows you to toggle the visibility of a `div` with a simple fade-in and fade-out transition.
 
+
+
+![Transition Effect](images/transition.avif)
+
 ## Prerequisites
 Before using the `Transition` component, make sure you have the following dependencies installed in your project:
 
