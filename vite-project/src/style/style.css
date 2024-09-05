@@ -1,0 +1,23 @@
+.square{
+    background-color: red;
+    height: 100px;
+    opacity: 1;
+    transition: all 1s ease;
+}
+.square.square-entering {
+    opacity: 1;
+    transform: translateX(0%);
+}
+.square.square-entered{
+    background-color: blue;
+
+}
+.square.square-exiting{
+    background-color: green;
+
+}
+.square.square-exited{
+    opacity: 0;
+    transform: translateX(-100%);
+
+}
